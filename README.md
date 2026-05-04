@@ -1,5 +1,5 @@
 
-# 🟡 Gold Intelligence Pro: FinTech Dashboard
+# 🟡 Gold Intelligence : FinTech Dashboard
 
 An advanced financial analytics terminal built with Python and Streamlit for analyzing historical gold futures data, monitoring live spot prices, and forecasting future trends using Machine Learning.
 
